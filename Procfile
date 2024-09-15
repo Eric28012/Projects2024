@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn joke_api:app
